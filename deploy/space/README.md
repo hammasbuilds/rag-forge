@@ -21,4 +21,4 @@ Try one of the deliberately unanswerable questions — the system is built to sa
 
 Running on free CPU hardware with the small model profile and a SQLite index.
 Source, and the Postgres/GPU configuration it normally runs on:
-**https://github.com/hammas159/rag-forge**
+**https://github.com/hammasbuilds/rag-forge**

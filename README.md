@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hammas159/rag-forge/actions/workflows/ci.yml"><img src="https://github.com/hammas159/rag-forge/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/hammasbuilds/rag-forge/actions/workflows/ci.yml"><img src="https://github.com/hammasbuilds/rag-forge/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
   <img src="https://img.shields.io/badge/python-3.12-blue" alt="python">
   <img src="https://img.shields.io/badge/postgres-17%20%2B%20pgvector-336791" alt="postgres">
   <img src="https://img.shields.io/badge/stack-FastAPI%20%C2%B7%20PyTorch%20%C2%B7%20sentence--transformers-orange" alt="stack">
@@ -192,7 +192,7 @@ MIT
 ## Run it yourself
 
 ```bash
-git clone https://github.com/hammas159/rag-forge
+git clone https://github.com/hammasbuilds/rag-forge
 cd rag-forge
 
 make up        # Postgres 17 + pgvector, Redis
